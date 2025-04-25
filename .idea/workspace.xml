@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="&#10;Commit excepiton">
-      <change afterPath="$PROJECT_DIR$/src/com/Basic/EX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Exception/ThrowsClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Exception/tryCatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/String/Sample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/UpcastingDowncasting/DownCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/UpcastingDowncasting/Upcasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Basic/ArgumentPass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/crestere/DJ.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/crestere/LongestSubstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/crestere/MonthAndDays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/crestere/PosibleSubSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/crestere/Sample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ArgumentPass.executor&quot;: &quot;Run&quot;,
     &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
     &quot;Application.CharFrequancy.executor&quot;: &quot;Run&quot;,
     &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
@@ -58,6 +59,9 @@
     &quot;Application.ExceptionDemo.executor&quot;: &quot;Run&quot;,
     &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inherit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthAndDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PosibleSubSet.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
     &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
@@ -164,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745292487812</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="&#10;Commit excepiton">
+      <option name="closed" value="true" />
+      <created>1745400245291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745400245291</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
