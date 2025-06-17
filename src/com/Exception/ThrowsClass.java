@@ -5,7 +5,7 @@ public class ThrowsClass {
         try {
             int i = 10 / 0;
         }
-        catch (Throwable e) {
+        catch (Exception e) {
             System.out.println(e.getMessage()+"th");
         }
     }
