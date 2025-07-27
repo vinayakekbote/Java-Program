@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="&#10;commit">
-      <change afterPath="$PROJECT_DIR$/src/com/Exception/Unrechable/NotReach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Exception/Unrechable/Reachable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Interview/IntegerObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/lambdaEx/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/lambdaEx/Executer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/lambdaEx/Substraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,12 +18,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -59,6 +64,7 @@
     "Application.DownCasting.executor": "Run",
     "Application.EX.executor": "Run",
     "Application.ExceptionDemo.executor": "Run",
+    "Application.Executer.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Inherit.executor": "Run",
@@ -89,19 +95,32 @@
     "Application.tryCatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "vinayak",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Spring Projects/API Gateway/apiGateway",
+    "last_opened_file_path": "D:/Intellij Java/Practice",
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Executer">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.BinarySearch.BinarySearch" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.BinarySearch.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Executer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.lambdaEx.Executer" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.lambdaEx.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Executer" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.FindMissingNumber" />
       </list>
@@ -250,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750145314188</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="&#10;commit">
+      <option name="closed" value="true" />
+      <created>1750159619928</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1750159619928</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,5 +288,10 @@
     <MESSAGE value="new commit" />
     <MESSAGE value="&#10;commit" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>com.java8.lambdaEx.*</FILTER>
+    </SUITE>
   </component>
 </project>
