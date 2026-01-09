@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="&#10;commit LambdaExs">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/FIndMinAndMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/Second_Largest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/Filter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,60 +49,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Anagram.executor": "Run",
-    "Application.ArgumentPass.executor": "Run",
-    "Application.BinarySearch.executor": "Run",
-    "Application.CharFrequancy.executor": "Run",
-    "Application.CharPrint.executor": "Run",
-    "Application.CollectionClass.executor": "Run",
-    "Application.Crable.executor": "Run",
-    "Application.DownCasting.executor": "Run",
-    "Application.EX.executor": "Run",
-    "Application.ExceptionDemo.executor": "Run",
-    "Application.Executer.executor": "Run",
-    "Application.FIndMinAndMax.executor": "Run",
-    "Application.Filter.executor": "Run",
-    "Application.FindMissingNumber.executor": "Run",
-    "Application.Functions.executor": "Run",
-    "Application.Inherit.executor": "Run",
-    "Application.IntegerObject.executor": "Run",
-    "Application.IntermediateOpeations.executor": "Run",
-    "Application.JavaLambda.executor": "Run",
-    "Application.LongestSubstring.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MonthAndDays.executor": "Run",
-    "Application.NotReach.executor": "Run",
-    "Application.PosibleSubSet.executor": "Run",
-    "Application.Practice.executor": "Run",
-    "Application.Predicates.executor": "Run",
-    "Application.PrimeNumber.executor": "Run",
-    "Application.Reachable.executor": "Run",
-    "Application.ReverseArray.executor": "Run",
-    "Application.RotationalArray.executor": "Run",
-    "Application.Sample.executor": "Run",
-    "Application.SecondLargestNumber.executor": "Run",
-    "Application.Second_Largest.executor": "Run",
-    "Application.StreamDemo.executor": "Run",
-    "Application.StringPalindrome.executor": "Run",
-    "Application.TerminalOperations.executor": "Run",
-    "Application.ThrowsClass.executor": "Run",
-    "Application.ThrowsKeyword.executor": "Run",
-    "Application.TryCatchFinally.executor": "Run",
-    "Application.Unique.executor": "Run",
-    "Application.Upcasting.executor": "Run",
-    "Application.UserDefinedException.executor": "Run",
-    "Application.tryCatch.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "vinayak",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Intellij Java/Practice",
-    "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArgumentPass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharFrequancy.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CharPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CollectionClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Crable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EX.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Executer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FIndMinAndMax.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Filter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inherit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntegerObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.IntermediateOpeations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JavaLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MonthAndDays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NotReach.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PosibleSubSet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Predicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reachable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RotationalArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Second_Largest.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StreamDemo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringPalindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TerminalOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowsClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ThrowsKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TryCatchFinally.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Unique.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Upcasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UserDefinedException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.tryCatch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;vinayak&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Intellij Java/Practice&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Intellij Java/Practice/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.BinarySearch.BinarySearch" />
       <module name="Practice" />
@@ -321,6 +317,17 @@
     </task>
     <option name="localTasksCounter" value="17" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Practices" />
