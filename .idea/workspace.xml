@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="&#10;commit LambdaExs">
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes">
+      <change afterPath="$PROJECT_DIR$/src/com/BasicInterviewProgramming/Largest_Of_3_Numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/Even_odd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/SquareOfEachNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,60 +52,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArgumentPass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharFrequancy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Crable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Executer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FIndMinAndMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inherit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntermediateOpeations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.JavaLambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MonthAndDays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotReach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PosibleSubSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Predicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reachable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotationalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second_Largest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TerminalOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThrowsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThrowsKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchFinally.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unique.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Upcasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserDefinedException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tryCatch.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;vinayak&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Intellij Java/Practice&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Intellij Java/Practice/src/Main.java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.ArgumentPass.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.CharFrequancy.executor": "Run",
+    "Application.CharPrint.executor": "Run",
+    "Application.CollectionClass.executor": "Run",
+    "Application.Crable.executor": "Run",
+    "Application.DownCasting.executor": "Run",
+    "Application.EX.executor": "Run",
+    "Application.Even_odd.executor": "Run",
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.Executer.executor": "Run",
+    "Application.FIndMinAndMax.executor": "Run",
+    "Application.Filter.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.Inherit.executor": "Run",
+    "Application.IntegerObject.executor": "Run",
+    "Application.IntermediateOpeations.executor": "Run",
+    "Application.JavaLambda.executor": "Run",
+    "Application.Largest_Of_3_Numbers.executor": "Run",
+    "Application.LongestSubstring.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MonthAndDays.executor": "Run",
+    "Application.NotReach.executor": "Run",
+    "Application.PosibleSubSet.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Predicates.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Reachable.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.RotationalArray.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
+    "Application.Second_Largest.executor": "Run",
+    "Application.SquareOfEachNumber.executor": "Run",
+    "Application.StreamDemo.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
+    "Application.TerminalOperations.executor": "Run",
+    "Application.ThrowsClass.executor": "Run",
+    "Application.ThrowsKeyword.executor": "Run",
+    "Application.TryCatchFinally.executor": "Run",
+    "Application.Unique.executor": "Run",
+    "Application.Upcasting.executor": "Run",
+    "Application.UserDefinedException.executor": "Run",
+    "Application.tryCatch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "vinayak",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Intellij Java/Practice",
+    "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
-}</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+}]]></component>
+  <component name="RunManager" selected="Application.Even_odd">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.BinarySearch.BinarySearch" />
       <module name="Practice" />
@@ -116,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Executer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.lambdaEx.Executer" />
+    <configuration name="Even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.Even_odd" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.lambdaEx.*" />
+          <option name="PATTERN" value="com.java8.streamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,25 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FIndMinAndMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.FIndMinAndMax" />
+    <configuration name="Largest_Of_3_Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.BasicInterviewProgramming.Largest_Of_3_Numbers" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.ReverseArray" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
+          <option name="PATTERN" value="com.BasicInterviewProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -168,13 +161,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SquareOfEachNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.SquareOfEachNumber" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Second_Largest" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.FIndMinAndMax" />
-        <item itemvalue="Application.Executer" />
+        <item itemvalue="Application.Even_odd" />
+        <item itemvalue="Application.SquareOfEachNumber" />
+        <item itemvalue="Application.Largest_Of_3_Numbers" />
         <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Second_Largest" />
       </list>
     </recent_temporary>
   </component>
@@ -315,7 +321,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753624846559</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="changes">
+      <option name="closed" value="true" />
+      <created>1767921272492</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1767921272492</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,7 +351,8 @@
     <MESSAGE value="&#10;commit" />
     <MESSAGE value="&#10;commit LambdaEx" />
     <MESSAGE value="&#10;commit LambdaExs" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;commit LambdaExs" />
+    <MESSAGE value="changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
