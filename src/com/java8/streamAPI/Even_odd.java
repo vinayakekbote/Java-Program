@@ -10,13 +10,12 @@ public class Even_odd {
 
         int num[] = {8,4,6,1,3,4,5,6,7,2,8,9};
 
-        Set<Integer> a = Arrays.stream(num).filter(n -> n%2 == 0)
+        Set<Integer> nums = Arrays.stream(num).filter(n -> n%2 == 0)
                 .sorted()
                 .boxed()
                 .collect(Collectors.toSet());
 
-        System.out.println("a =>> " + a);
-
+        System.out.println("nums = " + nums);
 
     }
 }

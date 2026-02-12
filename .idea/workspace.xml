@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes">
-      <change afterPath="$PROJECT_DIR$/src/com/BasicInterviewProgramming/Largest_Of_3_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/Even_odd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/SquareOfEachNumber.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/LeetCode/Easy/MoveZeros_283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/FindNthHighestSalary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +68,7 @@
     "Application.FIndMinAndMax.executor": "Run",
     "Application.Filter.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
+    "Application.FindNthHighestSalary.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Inherit.executor": "Run",
     "Application.IntegerObject.executor": "Run",
@@ -78,6 +78,7 @@
     "Application.LongestSubstring.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
+    "Application.MoveZeros_283.executor": "Run",
     "Application.NotReach.executor": "Run",
     "Application.PosibleSubSet.executor": "Run",
     "Application.Practice.executor": "Run",
@@ -108,13 +109,13 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Even_odd">
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.BinarySearch.BinarySearch" />
+  <component name="RunManager" selected="Application.MoveZeros_283">
+    <configuration name="Even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.Even_odd" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.BinarySearch.*" />
+          <option name="PATTERN" value="com.java8.streamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Even_odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.Even_odd" />
+    <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindNthHighestSalary" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -148,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Second_Largest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.Second_Largest" />
+    <configuration name="MoveZeros_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Easy.MoveZeros_283" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
+          <option name="PATTERN" value="com.LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MoveZeros_283" />
+        <item itemvalue="Application.FindNthHighestSalary" />
         <item itemvalue="Application.Even_odd" />
         <item itemvalue="Application.SquareOfEachNumber" />
         <item itemvalue="Application.Largest_Of_3_Numbers" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.Second_Largest" />
       </list>
     </recent_temporary>
   </component>
