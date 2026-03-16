@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/ShoesPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/MinPlatformTrain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/TakeInputFromTheNqt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,6 +79,7 @@
     "Application.Largest_Of_3_Numbers.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.MinPlatformTrain.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
     "Application.MoveZeros_283.executor": "Run",
     "Application.NotReach.executor": "Run",
@@ -95,6 +97,7 @@
     "Application.SquareOfEachNumber.executor": "Run",
     "Application.StreamDemo.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
+    "Application.TakeInputFromTheNqt.executor": "Run",
     "Application.TerminalOperations.executor": "Run",
     "Application.ThrowsClass.executor": "Run",
     "Application.ThrowsKeyword.executor": "Run",
@@ -112,7 +115,7 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ShoesPair">
+  <component name="RunManager" selected="Application.MinPlatformTrain">
     <configuration name="CountSunday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.TcsNqt.CountSunday" />
       <module name="Practice" />
@@ -139,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Easy.MoveZeros_283" />
+    <configuration name="MinPlatformTrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.MinPlatformTrain" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Easy.*" />
+          <option name="PATTERN" value="com.TcsNqt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,8 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZeroToEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.ZeroToEnd" />
+    <configuration name="TakeInputFromTheNqt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.TakeInputFromTheNqt" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -180,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinPlatformTrain" />
+        <item itemvalue="Application.TakeInputFromTheNqt" />
         <item itemvalue="Application.ShoesPair" />
         <item itemvalue="Application.CountSunday" />
         <item itemvalue="Application.DecimalBitToggleInBinary" />
-        <item itemvalue="Application.ZeroToEnd" />
-        <item itemvalue="Application.MoveZeros_283" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +360,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773584285246</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="changes new practice added">
+      <option name="closed" value="true" />
+      <created>1773623479819</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1773623479819</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
