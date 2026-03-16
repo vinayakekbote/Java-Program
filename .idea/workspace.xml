@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/CountSunday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/DecimalBitToggleInBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/ShoesPair.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +91,7 @@
     "Application.Sample.executor": "Run",
     "Application.SecondLargestNumber.executor": "Run",
     "Application.Second_Largest.executor": "Run",
+    "Application.ShoesPair.executor": "Run",
     "Application.SquareOfEachNumber.executor": "Run",
     "Application.StreamDemo.executor": "Run",
     "Application.StringPalindrome.executor": "Run",
@@ -112,7 +112,7 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CountSunday">
+  <component name="RunManager" selected="Application.ShoesPair">
     <configuration name="CountSunday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.TcsNqt.CountSunday" />
       <module name="Practice" />
@@ -139,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindNthHighestSalary" />
+    <configuration name="MoveZeros_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Easy.MoveZeros_283" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.LeetCode.Easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros_283" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.LeetCode.Easy.MoveZeros_283" />
+    <configuration name="ShoesPair" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.ShoesPair" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.LeetCode.Easy.*" />
+          <option name="PATTERN" value="com.TcsNqt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -180,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ShoesPair" />
         <item itemvalue="Application.CountSunday" />
         <item itemvalue="Application.DecimalBitToggleInBinary" />
         <item itemvalue="Application.ZeroToEnd" />
         <item itemvalue="Application.MoveZeros_283" />
-        <item itemvalue="Application.FindNthHighestSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773540607907</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="changes new practice added">
+      <option name="closed" value="true" />
+      <created>1773584285246</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1773584285246</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
