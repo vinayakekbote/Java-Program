@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/MinPlatformTrain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/TakeInputFromTheNqt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/FactorialNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +68,8 @@
     "Application.ExceptionDemo.executor": "Run",
     "Application.Executer.executor": "Run",
     "Application.FIndMinAndMax.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
     "Application.Filter.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
     "Application.FindNthHighestSalary.executor": "Run",
@@ -115,9 +117,9 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MinPlatformTrain">
-    <configuration name="CountSunday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.CountSunday" />
+  <component name="RunManager" selected="Application.FactorialNumber">
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FactorialNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DecimalBitToggleInBinary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.DecimalBitToggleInBinary" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FibonacciSeries" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -183,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FactorialNumber" />
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.MinPlatformTrain" />
         <item itemvalue="Application.TakeInputFromTheNqt" />
         <item itemvalue="Application.ShoesPair" />
-        <item itemvalue="Application.CountSunday" />
-        <item itemvalue="Application.DecimalBitToggleInBinary" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +370,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773623479819</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="changes new practice added">
+      <option name="closed" value="true" />
+      <created>1773674664851</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1773674664851</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
