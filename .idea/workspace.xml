@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/DynamicProgramming/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Recursion/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +120,7 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Factorial">
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Recursion.Factorial" />
       <module name="Practice" />
@@ -134,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FactorialNumber" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.DynamicProgramming.FibonacciSeries" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TcsNqt.*" />
+          <option name="PATTERN" value="com.DynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.MatrixInput" />
         <item itemvalue="Application.TCSInput" />
         <item itemvalue="Application.TakingFloatingNumberUptoNNumber" />
-        <item itemvalue="Application.FactorialNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -421,7 +421,15 @@
       <option name="project" value="LOCAL" />
       <updated>1777344094728</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="changes new practice added">
+      <option name="closed" value="true" />
+      <created>1778388228463</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1778388228463</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
