@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="changes new practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/MatrixInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/TcsNqt/TCSInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Recursion/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Recursion/Factorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +67,7 @@
     "Application.ExceptionDemo.executor": "Run",
     "Application.Executer.executor": "Run",
     "Application.FIndMinAndMax.executor": "Run",
+    "Application.Factorial.executor": "Run",
     "Application.FactorialNumber.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.Filter.executor": "Run",
@@ -81,7 +81,7 @@
     "Application.Largest_Of_3_Numbers.executor": "Run",
     "Application.LongestSubstring.executor": "Run",
     "Application.Main.executor": "Run",
-    "Application.MatrixInput.executor": "Run",
+    "Application.MatrixInput.executor": "Debug",
     "Application.MinPlatformTrain.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
     "Application.MoveZeros_283.executor": "Run",
@@ -120,13 +120,13 @@
     "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MatrixInput">
-    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FactorialNumber" />
+  <component name="RunManager" selected="Application.Factorial">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Recursion.Factorial" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.TcsNqt.*" />
+          <option name="PATTERN" value="com.Recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FibonacciSeries" />
+    <configuration name="FactorialNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.TcsNqt.FactorialNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -188,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial" />
         <item itemvalue="Application.MatrixInput" />
         <item itemvalue="Application.TCSInput" />
         <item itemvalue="Application.TakingFloatingNumberUptoNNumber" />
         <item itemvalue="Application.FactorialNumber" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -413,7 +413,15 @@
       <option name="project" value="LOCAL" />
       <updated>1775529574706</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="changes new practice added">
+      <option name="closed" value="true" />
+      <created>1777344094728</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1777344094728</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
