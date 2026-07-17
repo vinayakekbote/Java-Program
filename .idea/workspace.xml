@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="climbing stairs added in dynamic programming">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/CountOfNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/EndWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/EvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/Map.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="Stream api">
+      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/SecondHighestSalary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/frequencyOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/printDuplicateNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,6 +102,7 @@
     "Application.ReverseArray.executor": "Run",
     "Application.RotationalArray.executor": "Run",
     "Application.Sample.executor": "Run",
+    "Application.SecondHighestSalary.executor": "Debug",
     "Application.SecondLargestNumber.executor": "Run",
     "Application.Second_Largest.executor": "Run",
     "Application.ShoesPair.executor": "Run",
@@ -119,6 +120,8 @@
     "Application.Upcasting.executor": "Run",
     "Application.UserDefinedException.executor": "Run",
     "Application.ZeroToEnd.executor": "Run",
+    "Application.frequencyOfNumber.executor": "Run",
+    "Application.printDuplicateNumber.executor": "Run",
     "Application.tryCatch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -129,7 +132,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EndWith">
+  <component name="RunManager" selected="Application.frequencyOfNumber">
     <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.CountOfNumbers" />
       <module name="Practice" />
@@ -156,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.EvenNumber" />
+    <configuration name="SecondHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.SecondHighestSalary" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,12 +172,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntermediateOpeations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.IntermediateOpeations" />
+    <configuration name="frequencyOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.frequencyOfNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +185,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.Map" />
+    <configuration name="printDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.printDuplicateNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,11 +200,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.frequencyOfNumber" />
+        <item itemvalue="Application.printDuplicateNumber" />
+        <item itemvalue="Application.SecondHighestSalary" />
         <item itemvalue="Application.EndWith" />
         <item itemvalue="Application.CountOfNumbers" />
-        <item itemvalue="Application.Map" />
-        <item itemvalue="Application.EvenNumber" />
-        <item itemvalue="Application.IntermediateOpeations" />
       </list>
     </recent_temporary>
   </component>
@@ -446,7 +449,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784276775272</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Stream api">
+      <option name="closed" value="true" />
+      <created>1784283425872</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1784283425872</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -471,7 +482,8 @@
     <MESSAGE value="changes" />
     <MESSAGE value="changes new practice added" />
     <MESSAGE value="climbing stairs added in dynamic programming" />
-    <option name="LAST_COMMIT_MESSAGE" value="climbing stairs added in dynamic programming" />
+    <MESSAGE value="Stream api" />
+    <option name="LAST_COMMIT_MESSAGE" value="Stream api" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
