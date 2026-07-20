@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="functional interface added">
-      <change afterPath="$PROJECT_DIR$/src/com/Interview/reverseStringCharacters.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/comparable_comparable/Comparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +59,7 @@
     "Application.CharPrint.executor": "Run",
     "Application.ClimbingStairs.executor": "Run",
     "Application.CollectionClass.executor": "Run",
+    "Application.Comparable.executor": "Run",
     "Application.CountOfNumbers.executor": "Debug",
     "Application.CountSunday.executor": "Run",
     "Application.Crable.executor": "Run",
@@ -130,13 +131,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.reverseStringCharacters">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterface.Main" />
+  <component name="RunManager" selected="Application.Comparable">
+    <configuration name="Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.comparable_comparable.Comparable" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterface.*" />
+          <option name="PATTERN" value="com.comparable_comparable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +145,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.SecondHighestSalary" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterface.Main" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
+          <option name="PATTERN" value="com.java8.functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Comparable" />
         <item itemvalue="Application.reverseStringCharacters" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.frequencyOfNumber" />
         <item itemvalue="Application.printDuplicateNumber" />
-        <item itemvalue="Application.SecondHighestSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -471,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784513037003</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="practice added">
+      <option name="closed" value="true" />
+      <created>1784549213011</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1784549213011</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -498,7 +507,8 @@
     <MESSAGE value="climbing stairs added in dynamic programming" />
     <MESSAGE value="Stream api" />
     <MESSAGE value="functional interface added" />
-    <option name="LAST_COMMIT_MESSAGE" value="functional interface added" />
+    <MESSAGE value="practice added" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
