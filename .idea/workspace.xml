@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/multitreading/ex1/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/multitreading/ex1/MyThreadsUsingExtendClass.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added threads">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/remove_duplicate_from_array/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/sumOfPair/threeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/sumOfPair/twoSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,10 +122,13 @@
     "Application.Upcasting.executor": "Run",
     "Application.UserDefinedException.executor": "Run",
     "Application.ZeroToEnd.executor": "Run",
+    "Application.ex1.executor": "Run",
     "Application.frequencyOfNumber.executor": "Run",
     "Application.printDuplicateNumber.executor": "Run",
     "Application.reverseStringCharacters.executor": "Run",
+    "Application.threeSum.executor": "Run",
     "Application.tryCatch.executor": "Run",
+    "Application.twoSum.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -134,26 +138,18 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MyThread">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dsa.sumOfPair" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ex1">
     <configuration name="Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.comparable_comparable.Comparable" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.comparable_comparable.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.functionalInterface.Main" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +170,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="frequencyOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.frequencyOfNumber" />
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.remove_duplicate_from_array.ex1" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
+          <option name="PATTERN" value="com.dsa.remove_duplicate_from_array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,12 +183,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reverseStringCharacters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Interview.reverseStringCharacters" />
+    <configuration name="threeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.sumOfPair.threeSum" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.Interview.*" />
+          <option name="PATTERN" value="com.dsa.sumOfPair.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.sumOfPair.twoSum" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.sumOfPair.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.threeSum" />
+        <item itemvalue="Application.twoSum" />
         <item itemvalue="Application.MyThread" />
         <item itemvalue="Application.Comparable" />
-        <item itemvalue="Application.reverseStringCharacters" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.frequencyOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -491,7 +500,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784563935210</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="practice added threads">
+      <option name="closed" value="true" />
+      <created>1784601886249</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1784601886249</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -519,7 +536,8 @@
     <MESSAGE value="Stream api" />
     <MESSAGE value="functional interface added" />
     <MESSAGE value="practice added" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice added" />
+    <MESSAGE value="practice added threads" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice added threads" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
