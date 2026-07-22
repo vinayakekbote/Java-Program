@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.findFirstRepeatingElement;
 
 public class findFirstRepeatingElement {
     public static void main(String[] args) {
