@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/dsa/findPivoeElement/findPivoeElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/findMissingElement/ex1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/findFirstRepeatingElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/findFirstRepeatingElement/findFirstRepeatingElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,8 +120,10 @@
     "Application.Upcasting.executor": "Run",
     "Application.UserDefinedException.executor": "Run",
     "Application.ZeroToEnd.executor": "Run",
+    "Application.com.dsa.findMissingElement.ex1.executor": "Run",
     "Application.ex1.executor": "Run",
     "Application.findFirstRepeatingElement.executor": "Run",
+    "Application.findPivoeElement.executor": "Run",
     "Application.frequencyOfNumber.executor": "Run",
     "Application.printDuplicateNumber.executor": "Run",
     "Application.reverseStringCharacters.executor": "Run",
@@ -143,7 +144,20 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.findPivoeElement">
+  <component name="RunManager" selected="Application.com.dsa.findMissingElement.ex1">
+    <configuration name="com.dsa.findMissingElement.ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.findMissingElement.ex1" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.findMissingElement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.remove_duplicate_from_array.ex1" />
       <module name="Practice" />
@@ -196,26 +210,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="twoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.sumOfPair.twoSum" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.sumOfPair.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.dsa.findMissingElement.ex1" />
         <item itemvalue="Application.findPivoeElement" />
         <item itemvalue="Application.findFirstRepeatingElement" />
         <item itemvalue="Application.ex1" />
         <item itemvalue="Application.threeSum" />
-        <item itemvalue="Application.twoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -524,7 +525,15 @@
       <option name="project" value="LOCAL" />
       <updated>1784721499119</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="practice added">
+      <option name="closed" value="true" />
+      <created>1784724007349</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1784724007349</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
