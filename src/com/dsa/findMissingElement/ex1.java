@@ -12,11 +12,11 @@ public class ex1 {
 
         Arrays.sort(arr);
 
-        for(int i=0;i<arr.length;i++){
-            if(arr[i] == count){
+        for (int j : arr) {
+            if (j == count) {
                 count++;
-            }else if(arr[i] > count){
-                while(arr[i] > count){
+            } else if (j > count) {
+                while (j > count) {
                     res.add(count++);
                 }
                 count++;
