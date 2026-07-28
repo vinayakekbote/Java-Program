@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/prototype_design_pattern/ClonePrototype.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/prototype_design_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/prototype_design_pattern/Student.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="design pattern prototype practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/singleton_design_pattern/DoubleChecked_Locking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/singleton_design_pattern/EagerSingleton.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -560,7 +559,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785171824968</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="design pattern prototype practice added">
+      <option name="closed" value="true" />
+      <created>1785208185027</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1785208185027</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,7 +596,8 @@
     <MESSAGE value="functional interface added" />
     <MESSAGE value="practice added threads" />
     <MESSAGE value="practice added" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice added" />
+    <MESSAGE value="design pattern prototype practice added" />
+    <option name="LAST_COMMIT_MESSAGE" value="design pattern prototype practice added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
