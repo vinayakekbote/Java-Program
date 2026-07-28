@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="design pattern singpleton practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/EconomyCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/EconomySeden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/LuxuryCarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/LuxurySeden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/SUV.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/Seden.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/abstract_factory_pattern/carFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/factory_design_pattern/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/factory_design_pattern/Notification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/factory_design_pattern/NotificationFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/factory_design_pattern/SMSNotification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/design_pattern/factory_design_pattern/WhatsappNotification.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="design pattern factory and abstract factory practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/MaximumSubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,6 +89,7 @@
     "Application.Main.executor": "Run",
     "Application.Map.executor": "Run",
     "Application.MatrixInput.executor": "Debug",
+    "Application.MaximumSubarraySum.executor": "Run",
     "Application.MinPlatformTrain.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
     "Application.MoveZeros_283.executor": "Run",
@@ -159,7 +148,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.com.design_pattern.abstract_factory_pattern.Main">
+  <component name="RunManager" selected="Application.MaximumSubarraySum">
     <configuration name="Ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dsa.findMaximumAndMinumum.Ex1" />
       <module name="Practice" />
@@ -179,6 +168,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.design_pattern.prototype_design_pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.MaximumSubarraySum" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,26 +214,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.dsa.findMissingElement.ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.findMissingElement.ex1" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsa.findMissingElement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumSubarraySum" />
         <item itemvalue="Application.com.design_pattern.abstract_factory_pattern.Main" />
         <item itemvalue="Application.com.design_pattern.factory_design_pattern.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Ex1" />
-        <item itemvalue="Application.com.dsa.findMissingElement.ex1" />
       </list>
     </recent_temporary>
   </component>
@@ -588,7 +577,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785216756257</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="design pattern factory and abstract factory practice added">
+      <option name="closed" value="true" />
+      <created>1785220439751</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1785220439751</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -619,7 +616,8 @@
     <MESSAGE value="practice added" />
     <MESSAGE value="design pattern prototype practice added" />
     <MESSAGE value="design pattern singpleton practice added" />
-    <option name="LAST_COMMIT_MESSAGE" value="design pattern singpleton practice added" />
+    <MESSAGE value="design pattern factory and abstract factory practice added" />
+    <option name="LAST_COMMIT_MESSAGE" value="design pattern factory and abstract factory practice added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
