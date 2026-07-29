@@ -1,4 +1,4 @@
-package com.dsa;
+package com.dsa.max_subarray_sum;
 
 public class MaximumSubarraySum {
 
