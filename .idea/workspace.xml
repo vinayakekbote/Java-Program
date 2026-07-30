@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="dsa MaximumSubarraySum practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/Basic/Dj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/array2d/Sum_Of_All_Rows.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/MaximumSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/max_subarray_sum/MaximumSubarraySum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +64,7 @@
     &quot;Application.CountSunday.executor&quot;: &quot;Run&quot;,
     &quot;Application.Crable.executor&quot;: &quot;Run&quot;,
     &quot;Application.DecimalBitToggleInBinary.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dj.executor&quot;: &quot;Run&quot;,
     &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
     &quot;Application.EX.executor&quot;: &quot;Run&quot;,
     &quot;Application.EndWith.executor&quot;: &quot;Run&quot;,
@@ -149,7 +149,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Dj">
+  <component name="RunManager" selected="Application.Sum_Of_All_Rows">
     <configuration name="Dj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Basic.Dj" />
       <module name="Practice" />
@@ -163,12 +163,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.design_pattern.prototype_design_pattern.Main" />
+    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.max_subarray_sum.MaximumSubarraySum" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.design_pattern.prototype_design_pattern.*" />
+          <option name="PATTERN" value="com.dsa.max_subarray_sum.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dsa.max_subarray_sum.MaximumSubarraySum" />
+    <configuration name="Sum_Of_All_Rows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.array2d.Sum_Of_All_Rows" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsa.max_subarray_sum.*" />
+          <option name="PATTERN" value="com.array2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -217,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sum_Of_All_Rows" />
         <item itemvalue="Application.Dj" />
         <item itemvalue="Application.MaximumSubarraySum" />
         <item itemvalue="Application.com.design_pattern.abstract_factory_pattern.Main" />
         <item itemvalue="Application.com.design_pattern.factory_design_pattern.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -594,7 +594,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785239713087</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="dsa MaximumSubarraySum practice added">
+      <option name="closed" value="true" />
+      <created>1785340640762</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1785340640762</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
