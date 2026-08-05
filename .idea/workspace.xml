@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="linked list added into the list">
-      <change afterPath="$PROJECT_DIR$/src/com/linked_list/FindLengthInLinkedList.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="searching into linked list">
+      <change afterPath="$PROJECT_DIR$/src/com/linked_list/Insert_delate_node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -85,6 +85,8 @@
     "Application.FindNthHighestSalary.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Inherit.executor": "Run",
+    "Application.Insert_delate_node (1).executor": "Run",
+    "Application.Insert_delate_node.executor": "Run",
     "Application.IntegerObject.executor": "Run",
     "Application.IntermediateOpeations.executor": "Debug",
     "Application.JavaLambda.executor": "Run",
@@ -154,7 +156,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindLengthInLinkedList">
+  <component name="RunManager" selected="Application.Insert_delate_node">
     <configuration name="Array_to_linkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.linked_list.Array_to_linkedList" />
       <module name="Practice" />
@@ -194,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.linked_list.LinkedList" />
+    <configuration name="Insert_delate_node (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linked_list.Insert_delate_node" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
@@ -207,12 +209,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum_Of_All_Rows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.array2d.Sum_Of_All_Rows" />
+    <configuration name="Insert_delate_node" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.linked_list.Insert_delate_node" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.array2d.*" />
+          <option name="PATTERN" value="com.linked_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Insert_delate_node" />
+        <item itemvalue="Application.Insert_delate_node (1)" />
         <item itemvalue="Application.FindLengthInLinkedList" />
         <item itemvalue="Application.FindLengthInLinkedList (1)" />
         <item itemvalue="Application.Array_to_linkedList" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.Sum_Of_All_Rows" />
       </list>
     </recent_temporary>
   </component>
@@ -623,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785827376719</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="searching into linked list">
+      <option name="closed" value="true" />
+      <created>1785893779502</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1785893779502</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -657,7 +667,8 @@
     <MESSAGE value="design pattern factory and abstract factory practice added" />
     <MESSAGE value="dsa MaximumSubarraySum practice added" />
     <MESSAGE value="linked list added into the list" />
-    <option name="LAST_COMMIT_MESSAGE" value="linked list added into the list" />
+    <MESSAGE value="searching into linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="searching into linked list" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
