@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="binary search added">
+      <change afterPath="$PROJECT_DIR$/src/com/dsa/First_Duplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -239,14 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00001" summary="First Practices">
-      <option name="closed" value="true" />
-      <created>1743516148898</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1743516148898</updated>
     </task>
     <task id="LOCAL-00002" summary="First Practices">
       <option name="closed" value="true" />
@@ -632,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785893779502</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="binary search added">
+      <option name="closed" value="true" />
+      <created>1785983829746</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1785983829747</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -667,7 +668,8 @@
     <MESSAGE value="dsa MaximumSubarraySum practice added" />
     <MESSAGE value="linked list added into the list" />
     <MESSAGE value="searching into linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="searching into linked list" />
+    <MESSAGE value="binary search added" />
+    <option name="LAST_COMMIT_MESSAGE" value="binary search added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
