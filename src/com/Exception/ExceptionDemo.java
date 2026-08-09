@@ -8,7 +8,7 @@ public class ExceptionDemo {
             try {
                 x = 5 / 0;
             }catch (ArithmeticException e2){
-                System.out.println("Arithmatic exception occure first");
+                System.out.println("Arithmatic Exception occure first");
             }
             System.out.println(i+x);
         } catch (ArithmeticException e1) {
