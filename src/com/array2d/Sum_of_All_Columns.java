@@ -12,6 +12,7 @@ public class Sum_of_All_Columns {
 //        sum.sumOfAllCol(arr);
     }
 
+
 //    private void sumOfAllCol(int[][] arr) {
 //        List<Integer> res = new ArrayList<>();
 //        for(int col=0;col<arr.length;col++){
