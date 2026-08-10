@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/java8/lambda/LambdaExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,126 +50,140 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Anagram.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArgumentPass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_to_linkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BinarySearch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharFrequancy.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CharPrint.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CollectionClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Comparable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountFrequency.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountOfNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CountSunday.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Crable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DecimalBitToggleInBinary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Dj.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DownCasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EX.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EndWith.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EvenOddNumbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Even_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Executer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FIndMinAndMax.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Factorial.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FactorialNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FibonacciSeries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Filter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindLengthInLinkedList (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindLengthInLinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindMissingNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FindNthHighestSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.FirstNonRepeatingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Functions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Inherit.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Insert_delate_node (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Insert_delate_node.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntegerObject.executor&quot;: &quot;Run&quot;,
-    &quot;Application.IntermediateOpeations.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.JavaLambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Largest_Of_3_Numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestString.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LongestSubstring.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Map.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MatrixInput.executor&quot;: &quot;Debug&quot;,
-    &quot;Application.MaxElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MaximumSubarraySum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinPlatformTrain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MonthAndDays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MoveZeros_283.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyTread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NotReach.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PosibleSubSet.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Predicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PrimeNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reachable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RemoveDuplicates.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ReverseArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RotationalArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SeconHighestSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondHighestSalary.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SecondLargestNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Second_Largest.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ShoesPair.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SquareOfEachNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StreamDemo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.StringPalindrome.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sum_Of_All_Rows.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TCSInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TakeInputFromTheNqt.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TakingFloatingNumberUptoNNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TerminalOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThrowsClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ThrowsKeyword.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TryCatchFinally.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Unique.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Upcasting.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UserDefinedException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZeroToEnd.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.design_pattern.abstract_factory_pattern.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.design_pattern.factory_design_pattern.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.dsa.findMissingElement.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ex1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findFirstRepeatingElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.findPivoeElement.executor&quot;: &quot;Run&quot;,
-    &quot;Application.frequencyOfNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.printDuplicateNumber.executor&quot;: &quot;Run&quot;,
-    &quot;Application.reverseStringCharacters.executor&quot;: &quot;Run&quot;,
-    &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.tryCatch.executor&quot;: &quot;Run&quot;,
-    &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Intellij Java/Practice&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;D:/Intellij Java/Practice/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Anagram.executor": "Run",
+    "Application.ArgumentPass.executor": "Run",
+    "Application.Array_to_linkedList.executor": "Run",
+    "Application.BinarySearch.executor": "Run",
+    "Application.CharFrequancy.executor": "Run",
+    "Application.CharPrint.executor": "Run",
+    "Application.ClimbingStairs.executor": "Run",
+    "Application.CollectionClass.executor": "Run",
+    "Application.Comparable.executor": "Run",
+    "Application.CountFrequency.executor": "Run",
+    "Application.CountOfNumbers.executor": "Run",
+    "Application.CountSunday.executor": "Run",
+    "Application.Crable.executor": "Run",
+    "Application.DecimalBitToggleInBinary.executor": "Run",
+    "Application.Dj.executor": "Run",
+    "Application.DownCasting.executor": "Run",
+    "Application.EX.executor": "Run",
+    "Application.EndWith.executor": "Run",
+    "Application.EvenNumber.executor": "Run",
+    "Application.EvenOddNumbers.executor": "Run",
+    "Application.Even_odd.executor": "Run",
+    "Application.Ex1.executor": "Run",
+    "Application.ExceptionDemo.executor": "Run",
+    "Application.Executer.executor": "Run",
+    "Application.FIndMinAndMax.executor": "Run",
+    "Application.Factorial.executor": "Run",
+    "Application.FactorialNumber.executor": "Run",
+    "Application.FibonacciSeries.executor": "Run",
+    "Application.Filter.executor": "Run",
+    "Application.FindLengthInLinkedList (1).executor": "Run",
+    "Application.FindLengthInLinkedList.executor": "Run",
+    "Application.FindMissingNumber.executor": "Run",
+    "Application.FindNthHighestSalary.executor": "Run",
+    "Application.FirstNonRepeatingElement.executor": "Run",
+    "Application.Functions.executor": "Run",
+    "Application.Inherit.executor": "Run",
+    "Application.Insert_delate_node (1).executor": "Run",
+    "Application.Insert_delate_node.executor": "Run",
+    "Application.IntegerObject.executor": "Run",
+    "Application.IntermediateOpeations.executor": "Debug",
+    "Application.JavaLambda.executor": "Run",
+    "Application.LambdaExample.executor": "Run",
+    "Application.Largest_Of_3_Numbers.executor": "Run",
+    "Application.LinkedList.executor": "Run",
+    "Application.LongestString.executor": "Run",
+    "Application.LongestSubstring.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Map.executor": "Run",
+    "Application.MatrixInput.executor": "Debug",
+    "Application.MaxElement.executor": "Run",
+    "Application.MaximumSubarraySum.executor": "Run",
+    "Application.MinPlatformTrain.executor": "Run",
+    "Application.MonthAndDays.executor": "Run",
+    "Application.MoveZeros_283.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.MyTread.executor": "Run",
+    "Application.NotReach.executor": "Run",
+    "Application.PosibleSubSet.executor": "Run",
+    "Application.Practice.executor": "Run",
+    "Application.Predicates.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.Reachable.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseArray.executor": "Run",
+    "Application.RotationalArray.executor": "Run",
+    "Application.Sample.executor": "Run",
+    "Application.SeconHighestSalary.executor": "Run",
+    "Application.SecondHighestSalary.executor": "Run",
+    "Application.SecondLargestNumber.executor": "Run",
+    "Application.Second_Largest.executor": "Run",
+    "Application.ShoesPair.executor": "Run",
+    "Application.SquareOfEachNumber.executor": "Run",
+    "Application.StreamDemo.executor": "Run",
+    "Application.StringPalindrome.executor": "Run",
+    "Application.Sum_Of_All_Rows.executor": "Run",
+    "Application.TCSInput.executor": "Run",
+    "Application.TakeInputFromTheNqt.executor": "Run",
+    "Application.TakingFloatingNumberUptoNNumber.executor": "Run",
+    "Application.TerminalOperations.executor": "Run",
+    "Application.ThrowsClass.executor": "Run",
+    "Application.ThrowsKeyword.executor": "Run",
+    "Application.TryCatchFinally.executor": "Run",
+    "Application.Unique.executor": "Run",
+    "Application.Upcasting.executor": "Run",
+    "Application.UserDefinedException.executor": "Run",
+    "Application.ZeroToEnd.executor": "Run",
+    "Application.com.design_pattern.abstract_factory_pattern.Main.executor": "Run",
+    "Application.com.design_pattern.factory_design_pattern.Main.executor": "Run",
+    "Application.com.dsa.findMissingElement.ex1.executor": "Run",
+    "Application.ex1.executor": "Run",
+    "Application.findFirstRepeatingElement.executor": "Run",
+    "Application.findPivoeElement.executor": "Run",
+    "Application.frequencyOfNumber.executor": "Run",
+    "Application.printDuplicateNumber.executor": "Run",
+    "Application.reverseStringCharacters.executor": "Run",
+    "Application.threeSum.executor": "Run",
+    "Application.tryCatch.executor": "Run",
+    "Application.twoSum.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Intellij Java/Practice",
+    "onboarding.tips.debug.path": "D:/Intellij Java/Practice/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Map">
+  <component name="RunManager" selected="Application.LambdaExample">
     <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindNthHighestSalary" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.lambda.LambdaExample" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -213,26 +230,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="frequencyOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.frequencyOfNumber" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.Map" />
         <item itemvalue="Application.LongestString" />
         <item itemvalue="Application.FindNthHighestSalary" />
         <item itemvalue="Application.SecondHighestSalary" />
-        <item itemvalue="Application.frequencyOfNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -244,14 +248,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00006" summary="&#10;Commit excepiton">
-      <option name="closed" value="true" />
-      <created>1745292487812</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1745292487812</updated>
     </task>
     <task id="LOCAL-00007" summary="&#10;Commit excepiton">
       <option name="closed" value="true" />
@@ -637,7 +633,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786277730678</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="practice added">
+      <option name="closed" value="true" />
+      <created>1786360038194</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1786360038194</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
