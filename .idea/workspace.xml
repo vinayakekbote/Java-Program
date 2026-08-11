@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/lambda/LambdaExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/lambda/BuildInMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +56,7 @@
     "Application.ArgumentPass.executor": "Run",
     "Application.Array_to_linkedList.executor": "Run",
     "Application.BinarySearch.executor": "Run",
+    "Application.BuildInMethods.executor": "Run",
     "Application.CharFrequancy.executor": "Run",
     "Application.CharPrint.executor": "Run",
     "Application.ClimbingStairs.executor": "Run",
@@ -164,7 +165,20 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LambdaExample">
+  <component name="RunManager" selected="Application.BuildInMethods">
+    <configuration name="BuildInMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.lambda.BuildInMethods" />
+      <module name="Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java8.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindNthHighestSalary" />
       <module name="Practice" />
@@ -217,26 +231,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.SecondHighestSalary" />
-      <module name="Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BuildInMethods" />
         <item itemvalue="Application.LambdaExample" />
         <item itemvalue="Application.Map" />
         <item itemvalue="Application.LongestString" />
         <item itemvalue="Application.FindNthHighestSalary" />
-        <item itemvalue="Application.SecondHighestSalary" />
       </list>
     </recent_temporary>
   </component>
@@ -248,22 +249,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00007" summary="&#10;Commit excepiton">
-      <option name="closed" value="true" />
-      <created>1745400245291</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1745400245291</updated>
-    </task>
-    <task id="LOCAL-00008" summary="first commit">
-      <option name="closed" value="true" />
-      <created>1745599190758</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1745599190758</updated>
     </task>
     <task id="LOCAL-00009" summary="new commit">
       <option name="closed" value="true" />
@@ -641,7 +626,23 @@
       <option name="project" value="LOCAL" />
       <updated>1786360038194</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="practice added">
+      <option name="closed" value="true" />
+      <created>1786376996719</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1786376996719</updated>
+    </task>
+    <task id="LOCAL-00057" summary="practice added">
+      <option name="closed" value="true" />
+      <created>1786377026838</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1786377026838</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
