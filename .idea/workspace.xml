@@ -4,8 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practice added">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/lambda/BuildInMethods.java" afterDir="false" />
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="Lambda Expression Build In methods practice added">
+      <change afterPath="$PROJECT_DIR$/src/com/java8/optional_class/OptionalClassExamples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/just_practice_TP/practice_18_aug_2026/FindDuplicateElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/just_practice_TP/practice_18_aug_2026/FindHighestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/just_practice_TP/practice_18_aug_2026/MoveAllZerostotheLast.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/just_practice_TP/practice_18_aug_2026/SecondHighestNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,6 +86,8 @@
     "Application.FactorialNumber.executor": "Run",
     "Application.FibonacciSeries.executor": "Run",
     "Application.Filter.executor": "Run",
+    "Application.FindDuplicateElements.executor": "Run",
+    "Application.FindHighestElement.executor": "Run",
     "Application.FindLengthInLinkedList (1).executor": "Run",
     "Application.FindLengthInLinkedList.executor": "Run",
     "Application.FindMissingNumber.executor": "Run",
@@ -106,10 +112,12 @@
     "Application.MaximumSubarraySum.executor": "Run",
     "Application.MinPlatformTrain.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
+    "Application.MoveAllZerostotheLast.executor": "Run",
     "Application.MoveZeros_283.executor": "Run",
     "Application.MyThread.executor": "Run",
     "Application.MyTread.executor": "Run",
     "Application.NotReach.executor": "Run",
+    "Application.OptionalClassExamples.executor": "Run",
     "Application.PosibleSubSet.executor": "Run",
     "Application.Practice.executor": "Run",
     "Application.Predicates.executor": "Run",
@@ -120,6 +128,7 @@
     "Application.RotationalArray.executor": "Run",
     "Application.Sample.executor": "Run",
     "Application.SeconHighestSalary.executor": "Run",
+    "Application.SecondHighestNumber.executor": "Run",
     "Application.SecondHighestSalary.executor": "Run",
     "Application.SecondLargestNumber.executor": "Run",
     "Application.Second_Largest.executor": "Run",
@@ -165,13 +174,13 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BuildInMethods">
-    <configuration name="BuildInMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.lambda.BuildInMethods" />
+  <component name="RunManager" selected="Application.MoveAllZerostotheLast">
+    <configuration name="FindDuplicateElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.just_practice_TP.practice_18_aug_2026.FindDuplicateElements" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.lambda.*" />
+          <option name="PATTERN" value="com.just_practice_TP.practice_18_aug_2026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNthHighestSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindNthHighestSalary" />
+    <configuration name="FindHighestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.just_practice_TP.practice_18_aug_2026.FindHighestElement" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.just_practice_TP.practice_18_aug_2026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LambdaExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.lambda.LambdaExample" />
+    <configuration name="MoveAllZerostotheLast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.just_practice_TP.practice_18_aug_2026.MoveAllZerostotheLast" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.lambda.*" />
+          <option name="PATTERN" value="com.just_practice_TP.practice_18_aug_2026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -205,12 +214,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.LongestString" />
+    <configuration name="OptionalClassExamples" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.optional_class.OptionalClassExamples" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.java8.optional_class.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -218,12 +227,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Map" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.Map" />
+    <configuration name="SecondHighestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.just_practice_TP.practice_18_aug_2026.SecondHighestNumber" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.just_practice_TP.practice_18_aug_2026.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -233,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BuildInMethods" />
-        <item itemvalue="Application.LambdaExample" />
-        <item itemvalue="Application.Map" />
-        <item itemvalue="Application.LongestString" />
-        <item itemvalue="Application.FindNthHighestSalary" />
+        <item itemvalue="Application.MoveAllZerostotheLast" />
+        <item itemvalue="Application.FindDuplicateElements" />
+        <item itemvalue="Application.SecondHighestNumber" />
+        <item itemvalue="Application.FindHighestElement" />
+        <item itemvalue="Application.OptionalClassExamples" />
       </list>
     </recent_temporary>
   </component>
@@ -249,14 +258,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00009" summary="new commit">
-      <option name="closed" value="true" />
-      <created>1747985821750</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1747985821750</updated>
     </task>
     <task id="LOCAL-00010" summary="&#10;commit">
       <option name="closed" value="true" />
@@ -642,7 +643,15 @@
       <option name="project" value="LOCAL" />
       <updated>1786377026838</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Lambda Expression Build In methods practice added">
+      <option name="closed" value="true" />
+      <created>1786442766669</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1786442766669</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -680,7 +689,8 @@
     <MESSAGE value="First_Duplicate" />
     <MESSAGE value="Stream API added" />
     <MESSAGE value="practice added" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice added" />
+    <MESSAGE value="Lambda Expression Build In methods practice added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expression Build In methods practice added" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
