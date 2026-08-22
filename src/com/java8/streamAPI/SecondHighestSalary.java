@@ -5,6 +5,9 @@ import com.java8.Stream_API_DSA.Employee;
 import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
+import java.util.Map;
+import java.util.Optional;
+import java.util.stream.Collectors;
 
 class Employees{
 
@@ -62,6 +65,11 @@ public class SecondHighestSalary {
                 .getAsInt();
 
         System.out.println("salary = " + salary);
+
+        Map<String, Optional<Employees>> res = employees.stream()
+                .collect(Collectors.groupingBy(Employees::getDept, Collectors.maxBy(Comparator.comparing(Employees::getSalary))));
+
+        System.out.println("res = " + res);
 
     }
 }
