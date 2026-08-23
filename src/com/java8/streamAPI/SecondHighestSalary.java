@@ -66,10 +66,19 @@ public class SecondHighestSalary {
 
         System.out.println("salary = " + salary);
 
+        //--------------------------------------------------------------------------------------------------------------------------------
+
         Map<String, Optional<Employees>> res = employees.stream()
                 .collect(Collectors.groupingBy(Employees::getDept, Collectors.maxBy(Comparator.comparing(Employees::getSalary))));
 
         System.out.println("res = " + res);
+
+        //--------------------------------------------------------------------------------------------------------------------------------
+
+        Map<String, Double> avgSal = employees.stream()
+                .collect(Collectors.groupingBy(Employees::getDept, 
+                        Collectors.averagingInt(Employees::getSalary)));
+        System.out.println("avgSal = " + avgSal);
 
     }
 }
