@@ -16,6 +16,7 @@ public class FreqOfEachNum {
 
         for(Map.Entry<Integer,Long> x : data.entrySet()){
             System.out.println(x.getKey() + " = " + x.getValue());
+
         }
 
     }
