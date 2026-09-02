@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/DuplicateString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/LongestStringOk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/SmallestString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/FreqOfEachNum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +69,7 @@
     "Application.DecimalBitToggleInBinary.executor": "Run",
     "Application.Dj.executor": "Run",
     "Application.DownCasting.executor": "Run",
+    "Application.DuplicateString.executor": "Run",
     "Application.EX.executor": "Run",
     "Application.EndWith.executor": "Run",
     "Application.EvenNumber.executor": "Run",
@@ -92,6 +91,7 @@
     "Application.FindMissingNumber.executor": "Run",
     "Application.FindNthHighestSalary.executor": "Run",
     "Application.FirstNonRepeatingElement.executor": "Run",
+    "Application.FreqOfEachNum.executor": "Run",
     "Application.Functions.executor": "Run",
     "Application.Inherit.executor": "Run",
     "Application.Insert_delate_node (1).executor": "Run",
@@ -175,7 +175,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateString">
+  <component name="RunManager" selected="Application.FreqOfEachNum">
     <configuration name="DuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.DuplicateString" />
       <module name="Practice" />
@@ -189,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.multitreading.ex1.Ex2" />
+    <configuration name="FreqOfEachNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FreqOfEachNum" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.multitreading.ex1.*" />
+          <option name="PATTERN" value="com.java8.streamAPI.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -243,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FreqOfEachNum" />
         <item itemvalue="Application.DuplicateString" />
         <item itemvalue="Application.SmallestString" />
         <item itemvalue="Application.LongestStringOk" />
         <item itemvalue="Application.SecondHighestSalary" />
-        <item itemvalue="Application.Ex2" />
       </list>
     </recent_temporary>
   </component>
@@ -259,14 +259,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00015" summary="&#10;commit">
-      <option name="closed" value="true" />
-      <created>1750159619928</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1750159619928</updated>
     </task>
     <task id="LOCAL-00016" summary="&#10;commit LambdaExs">
       <option name="closed" value="true" />
@@ -652,7 +644,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787477840376</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="practices">
+      <option name="closed" value="true" />
+      <created>1788245159711</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1788245159712</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
