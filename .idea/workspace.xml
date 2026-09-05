@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices">
-      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/HighestPaidEmp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/AvgSalaryEachDepartment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +55,7 @@
     "Application.Anagram.executor": "Run",
     "Application.ArgumentPass.executor": "Run",
     "Application.Array_to_linkedList.executor": "Run",
+    "Application.AvgSalaryEachDepartment.executor": "Run",
     "Application.BinarySearch.executor": "Run",
     "Application.BuildInMethods.executor": "Run",
     "Application.CharFrequancy.executor": "Run",
@@ -179,13 +179,13 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HighestPaidEmp">
-    <configuration name="DuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.DuplicateString" />
+  <component name="RunManager" selected="Application.AvgSalaryEachDepartment">
+    <configuration name="AvgSalaryEachDepartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Interview.Practice.AvgSalaryEachDepartment" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.Interview.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AvgSalaryEachDepartment" />
         <item itemvalue="Application.HighestPaidEmp" />
         <item itemvalue="Application.EvenOddFilter" />
         <item itemvalue="Application.FindFirstElement" />
         <item itemvalue="Application.FreqOfEachNum" />
-        <item itemvalue="Application.DuplicateString" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00020" summary="changes new practice added">
-      <option name="closed" value="true" />
-      <created>1773584285246</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1773584285246</updated>
     </task>
     <task id="LOCAL-00021" summary="changes new practice added">
       <option name="closed" value="true" />
@@ -656,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788537004168</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="practices">
+      <option name="closed" value="true" />
+      <created>1788593644055</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1788593644055</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
