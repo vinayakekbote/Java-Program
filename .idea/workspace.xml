@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/EvenOddFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/HighestPaidEmp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java8/streamAPI/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java8/streamAPI/Map.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +96,7 @@
     "Application.FirstNonRepeatingElement.executor": "Run",
     "Application.FreqOfEachNum.executor": "Run",
     "Application.Functions.executor": "Run",
+    "Application.HighestPaidEmp.executor": "Run",
     "Application.Inherit.executor": "Run",
     "Application.Insert_delate_node (1).executor": "Run",
     "Application.Insert_delate_node.executor": "Run",
@@ -178,7 +179,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EvenOddFilter">
+  <component name="RunManager" selected="Application.HighestPaidEmp">
     <configuration name="DuplicateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.DuplicateString" />
       <module name="Practice" />
@@ -231,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallestString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.SmallestString" />
+    <configuration name="HighestPaidEmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Interview.Practice.HighestPaidEmp" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.Interview.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,11 +247,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestPaidEmp" />
         <item itemvalue="Application.EvenOddFilter" />
         <item itemvalue="Application.FindFirstElement" />
         <item itemvalue="Application.FreqOfEachNum" />
         <item itemvalue="Application.DuplicateString" />
-        <item itemvalue="Application.SmallestString" />
       </list>
     </recent_temporary>
   </component>
@@ -262,14 +263,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00019" summary="changes new practice added">
-      <option name="closed" value="true" />
-      <created>1773540607907</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1773540607907</updated>
     </task>
     <task id="LOCAL-00020" summary="changes new practice added">
       <option name="closed" value="true" />
@@ -655,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788451057825</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="practices">
+      <option name="closed" value="true" />
+      <created>1788537004167</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1788537004168</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
