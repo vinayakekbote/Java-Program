@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices">
-      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/SecondLaegestElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Interview/Practice/GroupEmployeeByDepartment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +180,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondLaegestElement">
+  <component name="RunManager" selected="Application.GroupEmployeeByDepartment">
     <configuration name="AvgSalaryEachDepartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Interview.Practice.AvgSalaryEachDepartment" />
       <module name="Practice" />
@@ -207,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.FindFirstElement" />
+    <configuration name="GroupEmployeeByDepartment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Interview.Practice.GroupEmployeeByDepartment" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.Interview.Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,11 +248,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GroupEmployeeByDepartment" />
         <item itemvalue="Application.SecondLaegestElement" />
         <item itemvalue="Application.AvgSalaryEachDepartment" />
         <item itemvalue="Application.HighestPaidEmp" />
         <item itemvalue="Application.EvenOddFilter" />
-        <item itemvalue="Application.FindFirstElement" />
       </list>
     </recent_temporary>
   </component>
@@ -264,14 +264,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00022" summary="changes new practice added">
-      <option name="closed" value="true" />
-      <created>1773674664851</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1773674664851</updated>
     </task>
     <task id="LOCAL-00023" summary="changes new practice added">
       <option name="closed" value="true" />
@@ -657,7 +649,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788594803332</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="practices">
+      <option name="closed" value="true" />
+      <created>1788690952063</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1788690952063</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
