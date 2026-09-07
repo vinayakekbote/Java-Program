@@ -16,6 +16,7 @@ public class GroupEmployeeByDepartment {
         employee.add(new Employee(6L,"Anush", "ENTC", 50L));
 
         Map<String, List<Employee>> res = new HashMap<>();
+
         for(Employee y : employee){
             if(!res.containsKey(y.getDepartment())){
                 res.put(y.getDepartment(), new ArrayList<>());
