@@ -16,6 +16,7 @@ public class PalindromeString {
                 break;
             }
         }
+
         if(!b){
             System.out.println("palindrom string");
         }
