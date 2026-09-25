@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices added">
-      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/Minumum_odd_number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java8/Stream_API_DSA/FindElementsThatOccurOnlyOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +87,7 @@
     "Application.FibonacciSeries.executor": "Run",
     "Application.Filter.executor": "Run",
     "Application.FindDuplicateElements.executor": "Run",
+    "Application.FindElementsThatOccurOnlyOnce.executor": "Run",
     "Application.FindFirstElement.executor": "Run",
     "Application.FindHighestElement.executor": "Run",
     "Application.FindLengthInLinkedList (1).executor": "Run",
@@ -117,6 +119,7 @@
     "Application.MaximumSubarraySum.executor": "Run",
     "Application.Maximum_Even_Number.executor": "Run",
     "Application.MinPlatformTrain.executor": "Run",
+    "Application.Minumum_odd_number.executor": "Run",
     "Application.MonthAndDays.executor": "Run",
     "Application.MoveAllZerostotheLast.executor": "Run",
     "Application.MoveZeros_283.executor": "Run",
@@ -183,13 +186,13 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Minumum_odd_number">
-    <configuration name="CountOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.streamAPI.CountOfNumbers" />
+  <component name="RunManager" selected="Application.FindElementsThatOccurOnlyOnce">
+    <configuration name="FindElementsThatOccurOnlyOnce" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.FindElementsThatOccurOnlyOnce" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.streamAPI.*" />
+          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -251,11 +254,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindElementsThatOccurOnlyOnce" />
         <item itemvalue="Application.Minumum_odd_number" />
         <item itemvalue="Application.Maximum_Even_Number" />
         <item itemvalue="Application.PalindromeString" />
         <item itemvalue="Application.FindNthHighestSalary" />
-        <item itemvalue="Application.CountOfNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -267,14 +270,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00029" summary="climbing stairs added in dynamic programming">
-      <option name="closed" value="true" />
-      <created>1784276775272</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1784276775272</updated>
     </task>
     <task id="LOCAL-00030" summary="Stream api">
       <option name="closed" value="true" />
@@ -660,7 +655,15 @@
       <option name="project" value="LOCAL" />
       <updated>1790506582233</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="practices added">
+      <option name="closed" value="true" />
+      <created>1790420765247</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1790420765247</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
