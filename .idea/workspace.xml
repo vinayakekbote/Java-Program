@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices added">
+    <list default="true" id="cc4e8909-aaca-4b19-a5aa-4052ddf11371" name="Changes" comment="practices added toSum">
+      <change afterPath="$PROJECT_DIR$/src/com/practice/secondLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dsa/tow_sum/toSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dsa/tow_sum/toSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,6 +171,7 @@
     &quot;Application.printDuplicateNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.reverseStringCharacters.executor&quot;: &quot;Run&quot;,
     &quot;Application.threeSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.toSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.tryCatch.executor&quot;: &quot;Run&quot;,
     &quot;Application.twoSum.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
@@ -187,7 +188,7 @@
       <recent name="com.dsa.sumOfPair" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.toSum">
+  <component name="RunManager" selected="Application.secondLargest">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.InbuildAnnotation.Demo" />
       <module name="Practice" />
@@ -227,12 +228,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Minumum_odd_number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java8.Stream_API_DSA.Minumum_odd_number" />
+    <configuration name="secondLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.practice.secondLargest" />
       <module name="Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java8.Stream_API_DSA.*" />
+          <option name="PATTERN" value="com.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -255,11 +256,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.secondLargest" />
         <item itemvalue="Application.toSum" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Ex1" />
         <item itemvalue="Application.FindElementsThatOccurOnlyOnce" />
-        <item itemvalue="Application.Minumum_odd_number" />
       </list>
     </recent_temporary>
   </component>
@@ -271,14 +272,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743515759092</updated>
-    </task>
-    <task id="LOCAL-00034" summary="practice added">
-      <option name="closed" value="true" />
-      <created>1784563935209</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1784563935210</updated>
     </task>
     <task id="LOCAL-00035" summary="practice added threads">
       <option name="closed" value="true" />
@@ -664,7 +657,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793109334487</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="practices added toSum">
+      <option name="closed" value="true" />
+      <created>1793110002728</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1793110002728</updated>
+    </task>
+    <option name="localTasksCounter" value="84" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -679,7 +680,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="&#10;Commit excepiton" />
     <MESSAGE value="first commit" />
     <MESSAGE value="new commit" />
     <MESSAGE value="&#10;commit" />
@@ -704,7 +704,8 @@
     <MESSAGE value="Lambda Expression Build In methods practice added" />
     <MESSAGE value="practices" />
     <MESSAGE value="practices added" />
-    <option name="LAST_COMMIT_MESSAGE" value="practices added" />
+    <MESSAGE value="practices added toSum" />
+    <option name="LAST_COMMIT_MESSAGE" value="practices added toSum" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Practice$Executer.ic" NAME="Executer Coverage Results" MODIFIED="1753622419053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
